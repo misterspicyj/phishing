@@ -61,3 +61,5 @@ This project was inspired by the **Hands-On Phishing** course by Tyler Ramsbey o
 
    ```bash
    python3 evilginx_setup.py
+3. Follow the prompts to input the necessary configuration details.
+4. Upon completion, the script will output the lure URL for immediate use.
