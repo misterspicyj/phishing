@@ -4,6 +4,15 @@ This Python script automates the process of downloading, extracting, and configu
 
 ---
 
+## Disclaimer
+
+This script is intended for educational and authorized use only.  
+**Do NOT use this tool for any malicious or illegal activities.**  
+The author is not responsible for any misuse or damage caused by this script.
+Use at your own risk.
+
+---
+
 ## Features
 
 - **Automated Download**: Fetches the latest Evilginx release for Linux (64-bit).
